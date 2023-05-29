@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Samsung",
+      "price": 300,
+      "quantity": 20
+    },
+    {
+      "id": 2,
+      "productName": "Iphone",
+      "price": 200,
+      "quantity": 10
+    },
+    {
+      "id": 3,
+      "productName": "Book",
+      "price": 150,
+      "quantity": "155"
+    },
+    {
+      "id": 4,
+      "productName": "Pen",
+      "price": 50,
+      "quantity": 130
+    },
+    {
+      "id": 5,
+      "productName": "Dell",
+      "price": 350,
+      "quantity": 25
+    },
+    {
+      "productName": "Huawei",
+      "price": "2000",
+      "quantity": "20",
+      "id": 6
+    }
+  ]
+}
